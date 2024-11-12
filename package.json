@@ -1,0 +1,19 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "train on node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "anas rkne",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
